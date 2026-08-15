@@ -1,4 +1,4 @@
-# Oiê, me chamo Bruna Tironi! 
+# Oiê, me chamo Bruna Tironi! ❤️
 
 [Português](#-português) • [English](#-english)
 
