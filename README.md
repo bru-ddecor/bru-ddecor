@@ -290,12 +290,44 @@ I am building my career in software development, paying attention to both applic
 
 </details>
 
-<a href="#projetos-selecionados">**Selected projects**</a><br/>
-<sub>All three projects are under development. These descriptions cover existing code rather than planned features.</sub>
-
-**Malagon** <br/>University search interface with country filters, a financial estimation dashboard and server routes that return university data defined in code.	<br/>HTML, CSS, JavaScript, Node.js, Express<br/>
-**LumaLabVitrine**	<br/>Storefront prototype with name search, expandable collections and product galleries. Product information and images are illustrative; no purchase flow is implemented.	<br/>React, JavaScript, CSS<br/>
-**ItalyGuide**	<br/>Tourism guide interface with categories, destination cards, light/dark themes managed with Provider and an adaptive grid.	<br/>Flutter, Dart, Provider<br/>
+<strong id= "projetos-selecionados">Selected projects</strong><br/>
+<sub>A selection of what is already in the code. The three projects are under development; the descriptions below outline what has been implemented. </sub><br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Malagon</h3>
+      <p><strong>Academic exchange planning</strong></p>
+      <p>The interface includes a university search function with filters by country, as well as a financial estimates dashboard. The server includes routes to list universities and search by identifier, with data defined in the code.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Node.js</code> <code>Express</code></p>
+      <p><sub>Final project in progress · without showing future integrations as completed.</sub></p>
+      <a href="https://github.com/bru-ddecor/Malagon"><strong>Explore the code ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · LumaLabVitrine</h3>
+      <p><strong>Visual identity in a React interface</strong></p>
+      <p>Prototype storefront with name search, expandable collections, and navigable product galleries. Components include accessibility labels.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>CSS</code></p>
+      <p><sub>Interface prototype · purchase flow not implemented.</sub></p>
+      <a href="https://github.com/bru-ddecor/LumaLabVitrine"><strong>Explore the code ↗</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · ItalyGuide</h3>
+      <p><strong>Visual exploration with Flutter</strong></p>
+      <p>Tourist guide interface with categories and destinations, switching between light and dark themes, and theme management with Provider. The home screen adapts the grid to the available width and includes animations on the cards.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Provider</code></p>
+      <p><sub>Academic project · demonstration content and evolving navigation.</sub></p>
+      <a href="https://github.com/bru-ddecor/ItalyGuide"><strong>Explore the code ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>What connects these projects?</h3>
+      <p>My interest lies in transforming information into understandable interfaces, exploring different tools, and bridging the gap between development and design.</p>
+      <p>This profile reflects an ongoing training program. I prefer to show the actual stage of each project and evolve from there.</p>
+      <a href="https://github.com/bru-ddecor?tab=repositories"><strong>View all repositories ↗</strong></a>
+    </td>
+  </tr>
+</table>
 
 
 Open to internships and entry-level software development opportunities.
