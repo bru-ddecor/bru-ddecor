@@ -1,0 +1,40 @@
+name: Atualizar snake de contribuições
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Gerar animações SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=%237B3548&color_dots=%23EEE8E1,%23E5CBD1,%23C7909E,%239F5B70,%237B3548
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23D6B878&color_dots=%23283146,%23513D52,%2386546A,%23B77F92,%23D6B878
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publicar SVGs na branch output
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "chore: atualizar animação de contribuições"
