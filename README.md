@@ -1,310 +1,239 @@
-# Oiê, me chamo Bruna Tironi! ❤️
-
-[Português](#-português) • [English](#-english)
-
----
-
-# 🇧🇷 Português
-
-Sou estudante do curso técnico de **Desenvolvimento de Sistemas na ETEC** e graduanda em **Ciência da Computação pela UNIP**.
-
-Gosto especialmente da parte em que **tecnologia e design se encontram**: construir interfaces, pensar na experiência de quem vai utilizá-las e, ao mesmo tempo, entender o que acontece por trás delas.
-
-Atualmente venho desenvolvendo minha base em **Front-end, desenvolvimento mobile, Back-end e Banco de Dados**, enquanto também amplio meus estudos em **Inteligência Artificial e Python**.
-
-Mais do que aprender tecnologias isoladamente, gosto de entender **como as partes de um sistema se conectam** 
-
----
-
-## 💻 Tecnologias
-
-### Front-end
-
-`HTML5` `CSS3` `JavaScript`
-
-**Em aprendizado:** `React.js`
-
-### Mobile
-
-`Dart` `Flutter`
-
-### Back-end & Banco de Dados
-
-`Node.js` `Express` `MySQL` `SQL`
-
-**Em aprendizado:** `Sequelize ORM`
-
-### Design
-
-`Figma` `Canva` `UX/UI`
-
-### Ferramentas
-
-`Git` `GitHub` `VS Code`
-
----
-
-## Projetos em destaque
-
-### 🎓 [Malagon](https://github.com/bru-ddecor/Malagon)
-
-Projeto desenvolvido como **TCC do curso técnico em Desenvolvimento de Sistemas**, construído de forma colaborativa.
-
-No projeto, venho trabalhando principalmente com conceitos relacionados a **Banco de Dados, Back-end, APIs e integração entre diferentes camadas da aplicação**.
-
-🚧 Projeto em desenvolvimento.
-
----
-
-### 🎬 [SketchFlix](https://github.com/bru-ddecor/SketchFlix)
-
-Projeto pessoal criado para estudar, na prática, como diferentes partes de uma aplicação web trabalham juntas.
-
-A proposta é desenvolver uma plataforma inspirada em serviços de streaming enquanto pratico:
-
-`HTML` `CSS` `JavaScript` `Node.js` `Express` `MySQL` `Sequelize`
-
-O projeto envolve conceitos como **CRUD, API REST, Banco de Dados e integração entre Front-end e Back-end**.
-
-🚧 Projeto em desenvolvimento.
-
----
-
-### 🇮🇹 [ItalyGuide](https://github.com/bru-ddecor/ItalyGuide)
-
-Aplicação mobile desenvolvida em **Flutter e Dart**, voltada para um guia turístico da Itália.
-
-O projeto me permite praticar desenvolvimento mobile enquanto exploro também **construção de interfaces e experiência do usuário**.
-
-🚧 Projeto em desenvolvimento.
-
----
-
-### 🧡 [Itaú Interface Practice](https://github.com/bru-ddecor/itauinterfacepractice)
-
-Projeto criado exclusivamente para **praticar Flutter e Dart**.
-
-A interface do aplicativo do Itaú foi utilizada como **referência e inspiração visual** durante a construção da minha própria interface, sem a intenção de reproduzir fielmente o aplicativo original.
-
-O objetivo é praticar conceitos como **widgets, composição de layouts, hierarquia visual e construção de interfaces mobile**.
-
-🚧 Projeto em desenvolvimento.
-
----
-
-## 📚 O que estou estudando agora
-
-### Desenvolvimento
-
-* JavaScript
-* React.js
-* Flutter e Dart
-* Node.js e Express
-* SQL e MySQL
-* Sequelize ORM
-* APIs REST
-* Integração entre Front-end, Back-end e Banco de Dados
-
-### 🔐 Segurança da Informação & Redes
-
-Nas aulas de SI na ETEC, estou construindo uma base, estudando temas como:
-
-* Endereçamento MAC e IP
-* SSID
-* Redes Wi-Fi e canais
-* Análise de redes Wi-Fi
-* Alcance e qualidade de sinal
-* Mbps e Gbps
-* Placas e interfaces de rede
-* Comunicação entre dispositivos
-* Cisco Packet Tracer
-
-### 🤖 Inteligência Artificial & Python
-
-Também participo da **Academia de Instrutores Jr. da Matza**, onde venho ampliando meus estudos relacionados a Inteligência Artificial e tecnologia.
-
-Entre meus estudos atuais estão:
-
-* **Introdução à Inteligência Artificial — Cisco Networking Academy**
-* **Claude — Anthropic**
-* Estudos de **Python**
-* **Fundamentos de Linguagem Python — Do Básico a Aplicações de IA — Data Science Academy (DSA)**
-
----
-
-## 🎓 Formação
-
-**Técnico em Desenvolvimento de Sistemas**
-ETEC — cursando
-
-**Ciência da Computação**
-UNIP — graduanda
-
----
-
-## 🌎 Idiomas
-
-* **Português:** nativo
-* **Inglês:** intermediário, em desenvolvimento contínuo
-
----
-
-## 📫 Onde me encontrar
-
-[LinkedIn](https://www.linkedin.com/in/bruna-tironi-72444428a) • [GitHub](https://github.com/bru-ddecor) • [E-mail](mailto:bru.tironiol@gmail.com)
-
-
-<br>
-
-# 🇺🇸 English
-
-Hi! I'm Bruna Tironi 👋🏻
-
-I'm currently studying **Systems Development at ETEC** and I'm a **Computer Science undergraduate at UNIP**.
-
-I'm especially interested in the point where **technology and design meet**: building interfaces, thinking about the user experience and, at the same time, understanding what happens behind them.
-
-I'm currently building my foundation in **Front-end development, mobile development, Back-end and Databases**, while also expanding my knowledge of **Artificial Intelligence and Python**.
-
-More than learning technologies individually, I like understanding **how different parts of a system connect** 
-
----
-
-## 💻 Technologies
-
-### Front-end
-
-`HTML5` `CSS3` `JavaScript`
-
-**Currently learning:** `React.js`
-
-### Mobile
-
-`Dart` `Flutter`
-
-### Back-end & Databases
-
-`Node.js` `Express` `MySQL` `SQL`
-
-**Currently learning:** `Sequelize ORM`
-
-### Design
-
-`Figma` `Canva` `UX/UI`
-
-### Tools
-
-`Git` `GitHub` `VS Code`
-
----
-
-## Featured Projects
-
-### 🎓 [Malagon](https://github.com/bru-ddecor/Malagon)
-
-A collaborative project developed as the **final project for my Systems Development technical course**.
-
-My work on the project is mainly focused on concepts related to **Databases, Back-end development, APIs and integration between different application layers**.
-
-🚧 Work in progress.
-
----
-
-### 🎬 [SketchFlix](https://github.com/bru-ddecor/SketchFlix)
-
-A personal project created to understand, in practice, how different parts of a web application work together.
-
-The project consists of building a streaming-inspired platform while practicing:
-
-`HTML` `CSS` `JavaScript` `Node.js` `Express` `MySQL` `Sequelize`
-
-It involves concepts such as **CRUD operations, REST APIs, Databases and Front-end/Back-end integration**.
-
-🚧 Work in progress.
-
----
-
-### 🇮🇹 [ItalyGuide](https://github.com/bru-ddecor/ItalyGuide)
-
-A mobile application built with **Flutter and Dart**, designed as a tourist guide for Italy.
-
-The project allows me to practice mobile development while also exploring **interface design and user experience**.
-
-🚧 Work in progress.
-
----
-
-### 🧡 [Itaú Interface Practice](https://github.com/bru-ddecor/itauinterfacepractice)
-
-A project created specifically to **practice Flutter and Dart**.
-
-The Itaú mobile app interface was used as a **visual reference and source of inspiration** while designing my own interface, rather than as something to reproduce exactly.
-
-The goal is to practice concepts such as **widgets, layout composition, visual hierarchy and mobile interface development**.
-
-🚧 Work in progress.
-
----
-
-## 📚 What I'm Currently Learning
-
-### Development
-
-* JavaScript
-* React.js
-* Flutter and Dart
-* Node.js and Express
-* SQL and MySQL
-* Sequelize ORM
-* REST APIs
-* Front-end, Back-end and Database integration
-
-### 🔐 Information Security & Networking
-
-In my **Information Security classes at ETEC**, I'm currently building a foundation in networking and infrastructure, including:
-
-* MAC and IP addressing
-* SSID
-* Wi-Fi networks and channels
-* Wi-Fi network analysis
-* Signal range and quality
-* Mbps and Gbps
-* Network interfaces
-* Communication between devices
-* Cisco Packet Tracer
-
-### 🤖 Artificial Intelligence & Python
-
-I'm also part of **Matza's Junior Instructor Academy**, where I'm expanding my knowledge of Artificial Intelligence and technology.
-
-My current studies include:
-
-* **Introduction to Artificial Intelligence — Cisco Networking Academy**
-* **Claude — Anthropic**
-* **Python**
-* **Python Language Fundamentals — From Basics to AI Applications — Data Science Academy (DSA)**
-
----
-
-## 🎓 Education
-
-**Systems Development — Technical Course**
-ETEC — currently studying
-
-**Computer Science**
-UNIP — undergraduate student
-
----
-
-## 🌎 Languages
-
-* **Portuguese:** Native
-* **English:** Intermediate, currently improving
-
----
-
-## 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/bruna-tironi-72444428a) • [GitHub](https://github.com/bru-ddecor) • [E-mail](mailto:bru.tironiol@gmail.com)
+<!-- Perfil: bru-ddecor | Português BR + English -->
+<!-- Paleta: creme F6F2EC · marsala 7B3548 · marinho 25344F · dourado B99A62 -->
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:F6F2EC,100:E8D8DD&text=Bruna%20Tironi&fontColor=25344F&fontSize=48&fontAlignY=43&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%C2%B7%20DESIGN%20%C2%B7%20APRENDIZADO&descSize=12&descAlignY=69&descColor=7B3548" alt="Bruna Tironi — Desenvolvimento de software, design e aprendizado" />
+</p>
+
+<p align="center">
+  <strong>Estudante de Ciência da Computação e Desenvolvimento de Sistemas</strong><br/>
+  Desenvolvimento web · Interesse em IA, automação e Java
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3200&pause=1400&color=7B3548&center=true&vCenter=true&width=700&height=45&lines=Um+olhar+de+design.+Uma+forma%C3%A7%C3%A3o+em+tecnologia.;Aprender%2C+construir%2C+testar+e+melhorar." alt="Um olhar de design. Uma formação em tecnologia. Aprender, construir, testar e melhorar." />
+</p>
+
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> ·
+  <a href="#tecnologias">Tecnologias</a> ·
+  <a href="#projetos-selecionados">Projetos</a> ·
+  <a href="#contato">Contato</a> ·
+  <a href="#english">English ↓</a>
+</p>
+
+Sobre mim
+Estou construindo minha trajetória em desenvolvimento de software, com atenção tanto à lógica quanto à experiência de quem usa o produto. Minha sensibilidade à estética e meu interesse por UX/UI orientam a forma como penso interfaces: hierarquia visual, clareza e cuidado com os detalhes. Trago da experiência em atendimento ao cliente a escuta e a comunicação para compreender necessidades e explicar soluções. Tenho facilidade para aprender ferramentas, gosto de investigar o que ainda não entendo e transformar o aprendizado em prática. Busco minha primeira oportunidade profissional em tecnologia, em uma equipe na qual eu possa contribuir, receber orientação e assumir responsabilidades à medida que evoluo.
+- Formação: Ciência da Computação na UNIP e Técnico em Desenvolvimento de Sistemas na ETEC.
+- Prática atual: interfaces web e estudos de integração com serviços e dados.
+- Próximos passos: aprofundar Java e Python, com interesse em IA e automação.
+- Além do código: design, culturas e idiomas — e uma atenção especial à estética dos carros.
+Gosto de entender como algo funciona e de cuidar de como isso chega às pessoas.
+
+Tecnologias
+Utilizadas em projetos e estudos
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git&theme=light&perline=8" alt="HTML, CSS, JavaScript, React, Node.js, Express, MySQL e Git" />
+</p>
+
+
+Interfaces, ferramentas e desenvolvimento de aplicativos
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,flutter,dart&theme=light&perline=4" alt="Figma, Postman, Flutter e Dart" />
+</p>
+
+
+Em aprendizado
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python&theme=light&perline=2" alt="Java e Python em aprendizado" />
+</p>
+
+
+<sub>As tecnologias representam meu contato em projetos e estudos, sem equivalência de domínio entre elas.</sub>
+Projetos selecionados
+Uma seleção do que já está no código. Os três projetos estão em desenvolvimento; as descrições abaixo delimitam o que foi implementado.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Malagon</h3>
+      <p><strong>Planejamento de intercâmbio</strong></p>
+      <p>Interface com busca de universidades e filtros por país, além de um painel de estimativas financeiras. O servidor inclui rotas para listar universidades e consultar por identificador, com dados definidos no código.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Node.js</code> <code>Express</code></p>
+      <p><sub>TCC em desenvolvimento · sem apresentar integrações futuras como concluídas.</sub></p>
+      <a href="https://github.com/bru-ddecor/Malagon"><strong>Explorar o código ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · LumaLabVitrine</h3>
+      <p><strong>Identidade visual em uma interface React</strong></p>
+      <p>Protótipo de vitrine com pesquisa por nome, coleções expansíveis e galerias navegáveis por produto. Os componentes incluem rótulos de acessibilidade; imagens e produtos ainda são ilustrativos.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>CSS</code></p>
+      <p><sub>Protótipo de interface · sem fluxo de compra implementado.</sub></p>
+      <a href="https://github.com/bru-ddecor/LumaLabVitrine"><strong>Explorar o código ↗</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · ItalyGuide</h3>
+      <p><strong>Exploração visual com Flutter</strong></p>
+      <p>Interface de guia turístico com categorias e destinos, alternância entre temas claro e escuro e gerenciamento do tema com Provider. A tela inicial adapta a grade à largura disponível e inclui animações nos cartões.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Provider</code></p>
+      <p><sub>Projeto acadêmico · conteúdo de demonstração e navegação em evolução.</sub></p>
+      <a href="https://github.com/bru-ddecor/ItalyGuide"><strong>Explorar o código ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>O que conecta esses projetos</h3>
+      <p>Meu interesse em transformar informação em interfaces compreensíveis, explorar diferentes ferramentas e aproximar desenvolvimento e design.</p>
+      <p>Este perfil acompanha uma formação em andamento. Prefiro mostrar o estágio real de cada projeto e evoluir a partir dele.</p>
+      <a href="https://github.com/bru-ddecor?tab=repositories"><strong>Ver todos os repositórios ↗</strong></a>
+    </td>
+  </tr>
+</table>
+
+Cursos e aprendizado contínuo
+Uma coleção em construção: cursos que complementam minha formação e acompanham meus próximos passos em tecnologia.
+
+[**Explorar a pasta de certificados ↗**](./certificados/)
+<details>
+<summary><strong>Ver minha coleção de certificados</strong></summary>
+
+
+Clique em uma miniatura para abrir a imagem em tamanho maior.
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/python-essentials-1.png"><img src="./certificados/python-essentials-1.png" width="400" alt="Certificado: Fundamentos do Python 1" /></a>
+      <br/><strong>Fundamentos do Python 1</strong>
+      <br/><sub>Cisco Networking Academy</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/fundamentos-ia-moderna.png"><img src="./certificados/fundamentos-ia-moderna.png" width="400" alt="Certificado: Fundamentos da IA Moderna" /></a>
+      <br/><strong>Fundamentos da IA Moderna</strong>
+      <br/><sub>DIO</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/introducao-engenharia-prompts.png"><img src="./certificados/introducao-engenharia-prompts.png" width="400" alt="Certificado: Introdução à Engenharia de Prompts" /></a>
+      <br/><strong>Introdução à Engenharia de Prompts</strong>
+      <br/><sub>DIO</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/etica-na-era-da-ia.png"><img src="./certificados/etica-na-era-da-ia.png" width="400" alt="Certificado: Ética na Era da IA" /></a>
+      <br/><strong>Ética na Era da IA</strong>
+      <br/><sub>Fundação Bradesco · Escola Virtual</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/estudos-carreira-com-ia.png"><img src="./certificados/estudos-carreira-com-ia.png" width="400" alt="Certificado: Potencializando Seus Estudos e Carreira com IA" /></a>
+      <br/><strong>Potencializando Seus Estudos e Carreira com IA</strong>
+      <br/><sub>DIO</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/dio-agent.png"><img src="./certificados/dio-agent.png" width="400" alt="Certificado: DIO Agent: Nunca Mais Estude Sozinho" /></a>
+      <br/><strong>DIO Agent: Nunca Mais Estude Sozinho</strong>
+      <br/><sub>DIO</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/seguranca-digital.png"><img src="./certificados/seguranca-digital.png" width="400" alt="Certificado: Sensibilização para a Segurança Digital" /></a>
+      <br/><strong>Sensibilização para a Segurança Digital</strong>
+      <br/><sub>Cisco Networking Academy</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/ingles-networking-entrevistas.png"><img src="./certificados/ingles-networking-entrevistas.png" width="400" alt="Certificado: English Fundamentals: Successful Networking and Interviews" /></a>
+      <br/><strong>English Fundamentals: Successful Networking and Interviews</strong>
+      <br/><sub>Santander Open Academy · conteúdo Penn ELP</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/logica-programacao.png"><img src="./certificados/logica-programacao.png" width="400" alt="Certificado: Lógica de Programação" /></a>
+      <br/><strong>Lógica de Programação</strong>
+      <br/><sub>SENAI</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/excel-basico.png"><img src="./certificados/excel-basico.png" width="400" alt="Certificado: Excel Básico" /></a>
+      <br/><strong>Excel Básico</strong>
+      <br/><sub>SENAI</sub>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+Atividade no GitHub
+<details>
+<summary><strong>Ver estatísticas, linguagens, sequência de contribuições e troféus</strong></summary>
+
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bru-ddecor&show_icons=true&hide_rank=true&hide_border=true&bg_color=F6F2EC&title_color=7B3548&text_color=25344F&icon_color=B99A62&locale=pt-br" alt="Estatísticas públicas do GitHub de Bruna Tironi" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bru-ddecor&layout=compact&langs_count=6&hide_border=true&bg_color=F6F2EC&title_color=7B3548&text_color=25344F&locale=pt-br" alt="Linguagens mais presentes nos repositórios públicos" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=bru-ddecor&locale=pt_BR&hide_border=true&background=F6F2EC&ring=B99A62&fire=7B3548&currStreakNum=25344F&sideNums=25344F&currStreakLabel=7B3548&sideLabels=25344F&dates=687083&stroke=E5D7D0" alt="Sequência de contribuições no GitHub" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bru-ddecor&bg_color=F6F2EC&color=25344F&line=7B3548&point=B99A62&area=true&area_color=E5CBD1&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" alt="Gráfico de contribuições recentes" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bru-ddecor&theme=flat&no-frame=true&no-bg=true&column=3&margin-w=12&margin-h=12" alt="Troféus de atividade do GitHub" />
+</p>
+
+<sub>Os painéis dependem de serviços externos e podem ficar indisponíveis. A distribuição de linguagens reflete o código analisado pelo serviço, não o nível de proficiência.</sub>
+</details>
+
+Contribuições em movimento
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bru-ddecor/bru-ddecor/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bru-ddecor/bru-ddecor/output/github-snake.svg" />
+    <img width="100%" alt="Animação da cobrinha percorrendo minhas contribuições" src="https://raw.githubusercontent.com/bru-ddecor/bru-ddecor/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- A animação aparece após a primeira execução bem-sucedida de .github/workflows/snake.yml. -->
+
+Contato
+Aberta a oportunidades de estágio e de entrada em desenvolvimento de software.
+<p>
+  <a href="https://www.linkedin.com/in/bruna-tironi-72444428a/"><img src="https://img.shields.io/badge/LinkedIn-25344F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Bruna Tironi" /></a>
+  <a href="https://www.instagram.com/bru.tironi/"><img src="https://img.shields.io/badge/Instagram-7B3548?style=flat-square&logo=instagram&logoColor=white" alt="Instagram de Bruna Tironi" /></a>
+</p>
+
+English
+Computer Science & Systems Development Student
+Web development · Interested in AI, automation and Java
+
+I am building my career in software development, paying attention to both application logic and the experience of the people using it. My eye for aesthetics and interest in UX/UI shape how I approach interfaces: clear visual hierarchy, usability and thoughtful details. My customer service background has strengthened my listening and communication skills, helping me understand needs and explain solutions. I pick up new tools quickly, enjoy investigating unfamiliar concepts and learn through hands-on work. I am looking for my first professional opportunity in technology, where I can contribute, learn from an experienced team and take on more responsibility as I grow.
+- Education: Computer Science at UNIP and a Technical Program in Systems Development at ETEC.
+- Current practice: web interfaces and learning how to integrate services and data.
+- Learning next: Java and Python, with an interest in AI and automation.
+- Beyond code: design, cultures, languages and automotive aesthetics.
+Courses & continuous learning
+An expanding collection of completed courses supporting my education in programming, AI and digital skills.
+
+[Browse my certificates](./certificados/)
+Selected projects
+All three projects are under development. These descriptions cover existing code rather than planned features.
+Project	Implemented scope	Technologies
+Malagon	University search interface with country filters, a financial estimation dashboard and server routes that return university data defined in code.	HTML, CSS, JavaScript, Node.js, Express
+LumaLabVitrine	Storefront prototype with name search, expandable collections and product galleries. Product information and images are illustrative; no purchase flow is implemented.	React, JavaScript, CSS
+ItalyGuide	Tourism guide interface with categories, destination cards, light/dark themes managed with Provider and an adaptive grid.	Flutter, Dart, Provider
+
+
+Open to internships and entry-level software development opportunities.
+
+LinkedIn · Instagram
+<p align="center">
+  <strong>Bruna Tironi</strong><br/>
+  <sub>Clareza na interface. Cuidado nos detalhes. Curiosidade para continuar.</sub><br/>
+  <sub>Clear interfaces. Thoughtful details. Curiosity to keep learning.</sub>
+</p>
 
 
