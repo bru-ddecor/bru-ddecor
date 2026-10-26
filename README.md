@@ -1,17 +1,17 @@
 <!-- Perfil: bru-ddecor | Português BR + English -->
-<!-- Paleta: creme F6F2EC · marsala 7B3548 · marinho 25344F · dourado B99A62 -->
+<!-- Banner: Florença ao pôr do sol · detalhes em marsala, marinho e dourado -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:F6F2EC,100:E8D8DD&text=Bruna%20Tironi&fontColor=25344F&fontSize=48&fontAlignY=43&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%C2%B7%20DESIGN%20%C2%B7%20APRENDIZADO&descSize=12&descAlignY=69&descColor=7B3548" alt="Bruna Tironi — Desenvolvimento de software, design e aprendizado" />
+  <img width="100%" src="./assets/banner-bruna-tironi.png" alt="Bruna Tironi — estudante de Ciência da Computação, engenharia de prompts e Java e Python em aprendizado. Ilustração de uma mesa com código e vista de Florença ao pôr do sol." />
 </p>
 
 <p align="center">
-  <strong>Estudante de Ciência da Computação e Desenvolvimento de Sistemas</strong><br/>
-  Desenvolvimento web · Interesse em IA, automação e Java
+  <strong>Estudante de Ciência da Computação | IA aplicada e automação</strong><br/>
+  Engenharia de prompts · Desenvolvimento assistido por IA · Java e Python em aprendizado
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3200&pause=1400&color=7B3548&center=true&vCenter=true&width=700&height=45&lines=Um+olhar+de+design.+Uma+forma%C3%A7%C3%A3o+em+tecnologia.;Aprender%2C+construir%2C+testar+e+melhorar." alt="Um olhar de design. Uma formação em tecnologia. Aprender, construir, testar e melhorar." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3200&pause=1400&color=800020&center=true&vCenter=true&width=700&height=45&lines=Um+olhar+de+design.+Uma+forma%C3%A7%C3%A3o+em+tecnologia.;Aprender%2C+construir%2C+testar+e+melhorar." alt="Um olhar de design. Uma formação em tecnologia. Aprender, construir, testar e melhorar." />
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@
 </p>
 
 <strong id= "sobre-mim">Sobre mim</strong><br/>
-Estou construindo minha trajetória em desenvolvimento de software, com atenção tanto à lógica quanto à experiência de quem usa o produto. Minha sensibilidade à estética e meu interesse por UX/UI orientam a forma como penso interfaces: hierarquia visual, clareza e cuidado com os detalhes. Trago da experiência em atendimento ao cliente a escuta e a comunicação para compreender necessidades e explicar soluções. Tenho facilidade para aprender ferramentas, gosto de investigar o que ainda não entendo e transformar o aprendizado em prática. Busco minha primeira oportunidade profissional em tecnologia, em uma equipe na qual eu possa contribuir, receber orientação e assumir responsabilidades à medida que evoluo.
+Estou construindo minha trajetória em tecnologia com foco em IA aplicada e automação, conectando minha sensibilidade ao design à criação de soluções para necessidades reais. Meu interesse por UX/UI orienta a forma como penso interfaces: clareza, hierarquia visual e cuidado com a experiência de quem usa. Trago do atendimento ao cliente a escuta e a comunicação para compreender problemas e avaliar soluções. Tenho facilidade para aprender ferramentas e gosto de investigar, experimentar e refinar o que construo. Na LumaLabVitrine, conduzi a criação de uma vitrine para os produtos da minha marca com apoio do Codex e integração com Supabase, definindo a proposta e refinando a implementação. Busco minha primeira oportunidade profissional em tecnologia para desenvolver essa base, aprender com uma equipe e contribuir com projetos de IA e automação.
 - Formação:  cursando Ciência da Computação na UNIP e Técnico em Desenvolvimento de Sistemas na ETEC.
-- Prática atual:  interfaces web e estudos de integração com serviços e dados.
-- Próximos passos:  aprofundar Java e Python, com interesse em IA e automação.
+- Prática atual:  desenvolvimento assistido por IA, engenharia de prompts e integração de interfaces com dados.
+- Próximos passos:  aprofundar Java, Python e os fundamentos necessários para construir automações e aplicações com IA.
 - Além do código:  amo design, culturas e idiomas.
 Gosto de entender como algo funciona e de cuidar de como isso chega às pessoas.
 
@@ -38,7 +38,7 @@ Gosto de entender como algo funciona e de cuidar de como isso chega às pessoas.
 
 <strong>Interfaces, ferramentas e desenvolvimento de aplicativos</strong><br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,postman,flutter,dart&theme=light&perline=4" alt="Figma, Postman, Flutter e Dart" />
+  <img src="https://skillicons.dev/icons?i=figma,postman,flutter,dart,supabase&theme=light&perline=4" alt="Figma, Postman, Flutter, Dart e Supabase" />
 </p>
 
 
@@ -50,7 +50,7 @@ Gosto de entender como algo funciona e de cuidar de como isso chega às pessoas.
 
 <sub>As tecnologias representam meu contato em projetos e estudos, sem equivalência de domínio entre elas.</sub><br/><br/>
 <strong id= "projetos-selecionados">Projetos selecionados</strong><br/>
-<sub>Uma seleção do que já está no código. Os três projetos estão em desenvolvimento; as descrições abaixo delimitam o que foi implementado. </sub><br/>
+<sub>Uma seleção do que já está no código. As descrições apresentam o estágio real de cada projeto, incluindo uma vitrine funcional para minha marca. </sub><br/>
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -63,10 +63,10 @@ Gosto de entender como algo funciona e de cuidar de como isso chega às pessoas.
     </td>
     <td width="50%" valign="top">
       <h3>02 · LumaLabVitrine</h3>
-      <p><strong>Identidade visual em uma interface React</strong></p>
-      <p>Protótipo de vitrine com pesquisa por nome, coleções expansíveis e galerias navegáveis por produto. Os componentes incluem rótulos de acessibilidade; imagens e produtos ainda são ilustrativos.</p>
-      <p><code>React</code> <code>JavaScript</code> <code>CSS</code></p>
-      <p><sub>Protótipo de interface · sem fluxo de compra implementado.</sub></p>
+      <p><strong>Vitrine de produtos reais · desenvolvimento assistido por IA</strong></p>
+      <p>Vitrine criada para apresentar os broches da minha marca, disponíveis à pronta entrega, com fotografias reais aprimoradas com IA e fiéis aos produtos. Conduzi o projeto com apoio do Codex, definindo ideias e requisitos, revisando resultados e refinando a implementação até atender às necessidades da vitrine. O projeto inclui banco de dados com Supabase e faz parte dos meus estudos de engenharia de prompts e agentes de IA.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>CSS</code> <code>Supabase</code> <code>Codex</code></p>
+      <p><sub>Vitrine funcional para uma necessidade real da minha marca.</sub></p>
       <a href="https://github.com/bru-ddecor/LumaLabVitrine"><strong>Explorar o código ↗</strong></a>
     </td>
   </tr>
@@ -168,16 +168,16 @@ Atividade no GitHub
 
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bru-ddecor&show_icons=true&hide_rank=true&hide_border=true&bg_color=F6F2EC&title_color=7B3548&text_color=25344F&icon_color=B99A62&locale=pt-br" alt="Estatísticas públicas do GitHub de Bruna Tironi" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bru-ddecor&layout=compact&langs_count=6&hide_border=true&bg_color=F6F2EC&title_color=7B3548&text_color=25344F&locale=pt-br" alt="Linguagens mais presentes nos repositórios públicos" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bru-ddecor&show_icons=true&hide_rank=true&hide_border=true&bg_color=14243B&title_color=D4AF37&text_color=D4AF37&icon_color=D4AF37&locale=pt-br" alt="Estatísticas públicas do GitHub de Bruna Tironi" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bru-ddecor&layout=compact&langs_count=6&hide_border=true&bg_color=14243B&title_color=D4AF37&text_color=D4AF37&locale=pt-br" alt="Linguagens mais presentes nos repositórios públicos" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=bru-ddecor&locale=pt_BR&hide_border=true&background=F6F2EC&ring=B99A62&fire=7B3548&currStreakNum=25344F&sideNums=25344F&currStreakLabel=7B3548&sideLabels=25344F&dates=687083&stroke=E5D7D0" alt="Sequência de contribuições no GitHub" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=bru-ddecor&locale=pt_BR&hide_border=true&background=14243B&ring=D4AF37&fire=800020&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=D4AF37&stroke=D4AF37" alt="Sequência de contribuições no GitHub" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bru-ddecor&bg_color=F6F2EC&color=25344F&line=7B3548&point=B99A62&area=true&area_color=E5CBD1&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" alt="Gráfico de contribuições recentes" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bru-ddecor&bg_color=14243B&color=D4AF37&line=D4AF37&point=D4AF37&area=true&area_color=800020&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" alt="Gráfico de contribuições recentes" />
 </p>
 
 <p align="center">
@@ -199,21 +199,21 @@ Contribuições em movimento
 <!-- A animação aparece após a primeira execução bem-sucedida de .github/workflows/snake.yml. -->
 
 <h2 id= "contato">Contato</h2>
-Aberta a oportunidades de estágio e de entrada em desenvolvimento de software.
+Aberta a oportunidades de estágio e de entrada em tecnologia, com foco em IA aplicada e automação.
 <p><br/>
-  <a href="https://www.linkedin.com/in/bruna-tironi-72444428a/"><img src="https://img.shields.io/badge/LinkedIn-25344F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Bruna Tironi" /></a>
-  <a href="https://www.instagram.com/bru.tironi/"><img src="https://img.shields.io/badge/Instagram-7B3548?style=flat-square&logo=instagram&logoColor=white" alt="Instagram de Bruna Tironi" /></a>
-  <a href="https://wa.me/5532999240859"><img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="Instagram de Bruna Tironi" /></a>
+  <a href="https://www.linkedin.com/in/bruna-tironi-72444428a/"><img src="https://img.shields.io/badge/LinkedIn-14243B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Bruna Tironi" /></a>
+  <a href="https://www.instagram.com/bru.tironi/"><img src="https://img.shields.io/badge/Instagram-800020?style=flat-square&logo=instagram&logoColor=white" alt="Instagram de Bruna Tironi" /></a>
+  <a href="https://wa.me/5532999240859"><img src="https://img.shields.io/badge/WhatsApp-D4AF37?style=flat-square&logo=whatsapp&logoColor=14243B" alt="WhatsApp de Bruna Tironi" /></a>
 </p><br/>
 
 <h1 id= "english"><strong>English</strong></h1><br/>
-<strong>Computer Science & Systems Development Student</strong><br/>
-<sub>Web development · Interested in AI, automation and Java</sub><br/><br/>
+<strong>Computer Science Student | Applied AI & Automation</strong><br/>
+<sub>Prompt engineering · AI-assisted development · Learning Java and Python</sub><br/><br/>
 
-I am building my career in software development, paying attention to both application logic and the experience of the people using it. My eye for aesthetics and interest in UX/UI shape how I approach interfaces: clear visual hierarchy, usability and thoughtful details. My customer service background has strengthened my listening and communication skills, helping me understand needs and explain solutions. I pick up new tools quickly, enjoy investigating unfamiliar concepts and learn through hands-on work. I am looking for my first professional opportunity in technology, where I can contribute, learn from an experienced team and take on more responsibility as I grow. <br/>
+I am building my career in technology with a focus on applied AI and automation, combining my eye for design with solutions to real needs. My interest in UX/UI shapes how I approach interfaces: clarity, visual hierarchy and attention to the user experience. My customer service background has strengthened my listening and communication skills, helping me understand problems and evaluate solutions. I pick up new tools quickly and enjoy investigating, experimenting and refining what I build. For LumaLabVitrine, I led the creation of a storefront for my own brand with support from Codex and a Supabase integration, defining the concept and refining the implementation. I am looking for my first professional opportunity in technology, where I can strengthen my foundations, learn from a team and contribute to AI and automation projects. <br/>
 - Education: Computer Science at UNIP and a Technical Program in Systems Development at ETEC.
-- Current practice: web interfaces and learning how to integrate services and data.
-- Learning next: Java and Python, with an interest in AI and automation.
+- Current practice: AI-assisted development, prompt engineering and connecting interfaces to data.
+- Learning next: Java, Python and the foundations for building automations and AI applications.
 - Beyond code: design, cultures, languages and automotive aesthetics.<br/><br/>
 <strong>Courses & continuous learning</strong><br/>
 <sub>An expanding collection of completed courses supporting my education in programming, AI and digital skills.</sub>
@@ -265,7 +265,7 @@ I am building my career in software development, paying attention to both applic
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="./certificados/seguranca-digital.png"><img src="./certificados/seguranca-digital.png" width="400" alt="Certificado: Sensibilização para a Segurança Digital" /></a>
-      <br/><strong>Raising Awareness for Digital Sec</strong>
+      <br/><strong>Digital Safety and Security Awareness</strong>
       <br/><sub>Cisco Networking Academy</sub>
     </td>
     <td width="50%" align="center" valign="top">
@@ -290,8 +290,8 @@ I am building my career in software development, paying attention to both applic
 
 </details>
 
-<strong id= "projetos-selecionados">Selected projects</strong><br/>
-<sub>A selection of what is already in the code. The three projects are under development; the descriptions below outline what has been implemented. </sub><br/>
+<strong id= "selected-projects">Selected projects</strong><br/>
+<sub>A selection of what is already in the code. The descriptions reflect the actual stage of each project, including a functional storefront for my own brand. </sub><br/>
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -304,10 +304,10 @@ I am building my career in software development, paying attention to both applic
     </td>
     <td width="50%" valign="top">
       <h3>02 · LumaLabVitrine</h3>
-      <p><strong>Visual identity in a React interface</strong></p>
-      <p>Prototype storefront with name search, expandable collections, and navigable product galleries. Components include accessibility labels.</p>
-      <p><code>React</code> <code>JavaScript</code> <code>CSS</code></p>
-      <p><sub>Interface prototype · purchase flow not implemented.</sub></p>
+      <p><strong>Real-product storefront · AI-assisted development</strong></p>
+      <p>A storefront built to showcase my brand’s brooches, which are available in stock, using real product photographs enhanced with AI while remaining faithful to the products. I directed the project with support from Codex, defining ideas and requirements, reviewing results and refining the implementation until it met my storefront needs. It includes a Supabase database and is part of my hands-on studies in prompt engineering and AI agents.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>CSS</code> <code>Supabase</code> <code>Codex</code></p>
+      <p><sub>A functional storefront addressing a real need for my brand.</sub></p>
       <a href="https://github.com/bru-ddecor/LumaLabVitrine"><strong>Explore the code ↗</strong></a>
     </td>
   </tr>
@@ -330,17 +330,16 @@ I am building my career in software development, paying attention to both applic
 </table>
 
 
-Open to internships and entry-level software development opportunities.
+Open to internships and entry-level opportunities in technology, with a focus on applied AI and automation.
 
 <p><br/>
-  <a href="https://www.linkedin.com/in/bruna-tironi-72444428a/"><img src="https://img.shields.io/badge/LinkedIn-25344F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Bruna Tironi" /></a>
-  <a href="https://www.instagram.com/bru.tironi/"><img src="https://img.shields.io/badge/Instagram-7B3548?style=flat-square&logo=instagram&logoColor=white" alt="Instagram de Bruna Tironi" /></a>
-  <a href="https://wa.me/5532999240859"><img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="Instagram de Bruna Tironi" /></a>
+  <a href="https://www.linkedin.com/in/bruna-tironi-72444428a/"><img src="https://img.shields.io/badge/LinkedIn-14243B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Bruna Tironi" /></a>
+  <a href="https://www.instagram.com/bru.tironi/"><img src="https://img.shields.io/badge/Instagram-800020?style=flat-square&logo=instagram&logoColor=white" alt="Instagram de Bruna Tironi" /></a>
+  <a href="https://wa.me/5532999240859"><img src="https://img.shields.io/badge/WhatsApp-D4AF37?style=flat-square&logo=whatsapp&logoColor=14243B" alt="WhatsApp de Bruna Tironi" /></a>
 </p><br/>
 <p align="center">
   <strong>Bruna Tironi</strong><br/>
   <sub>Clareza na interface. Cuidado nos detalhes. Curiosidade para continuar.</sub><br/>
   <sub>Clear interfaces. Thoughtful details. Curiosity to keep learning.</sub>
 </p>
-
 
