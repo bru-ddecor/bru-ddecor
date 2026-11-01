@@ -293,6 +293,13 @@ I am building my career in technology with a focus on applied AI and automation,
       <br/><sub>SENAI</sub>
     </td>
   </tr>
+  <tr>
+      <td width="50%" align="center" valign="top">
+      <a href="./certificados/introjavaeide.png"><img src="./certificados/introjavaeide.png" width="400" alt="Certificate: Introduction to Java and its Development Environment" /></a>
+      <br/><strong>Introduction to Java and its Development Environment</strong>
+      <br/><sub>DIO</sub>
+    </td>
+  </tr>
 </table>
 
 </details>
