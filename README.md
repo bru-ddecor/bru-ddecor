@@ -158,6 +158,13 @@ Clique em uma miniatura para abrir a imagem em tamanho maior.
       <br/><sub>SENAI</sub>
     </td>
   </tr>
+  <tr>
+      <td width="50%" align="center" valign="top">
+      <a href="./certificados/introjavaeide.png"><img src="./certificados/introjavaeide.png" width="400" alt="Certificado: Introdução ao Java e seu Ambiente de Desenvolvimento" /></a>
+      <br/><strong>Introdução ao Java e seu Ambiente de Desenvolvimento</strong>
+      <br/><sub>DIO</sub>
+    </td>
+  </tr>
 </table>
 
 </details>
