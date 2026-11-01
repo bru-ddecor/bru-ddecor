@@ -65,6 +65,12 @@ Clique nas imagens para visualizar cada certificado em tamanho maior.
       <br/><sub>SENAI</sub>
     </td>
   </tr>
+  <tr>
+      <td width="50%" align="center" valign="top">
+      <a href="./introjavaeide.png"><img src="./introjavaeide.png" width="400" alt="Certificado: Introdução ao Java e seu Ambiente de Desenvolvimento" /></a>
+      <br/><strong>Introdução ao Java e seu Ambiente de Desenvolvimento</strong>
+      <br/><sub>DIO</sub>
+    </td>
 </table>
 
 Como acrescentar um certificado
