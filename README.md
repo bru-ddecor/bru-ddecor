@@ -164,6 +164,11 @@ Clique em uma miniatura para abrir a imagem em tamanho maior.
       <br/><strong>Introdução ao Java e seu Ambiente de Desenvolvimento</strong>
       <br/><sub>DIO</sub>
     </td>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/fundamentos-sintaxe-java.png"><img src="./certificados/fundamentos-sintaxe-java.png" width="400" alt="Certificado: Fundamentos da Sintaxe da Linguagem Java" /></a>
+      <br/><strong>Fundamentos da Sintaxe da Linguagem Java</strong>
+      <br/><sub>DIO · 2 horas · 03/11/2026</sub>
+    </td>
   </tr>
 </table>
 
@@ -298,6 +303,11 @@ I am building my career in technology with a focus on applied AI and automation,
       <a href="./certificados/introjavaeide.png"><img src="./certificados/introjavaeide.png" width="400" alt="Certificate: Introduction to Java and its Development Environment" /></a>
       <br/><strong>Introduction to Java and its Development Environment</strong>
       <br/><sub>DIO</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificados/fundamentos-sintaxe-java.png"><img src="./certificados/fundamentos-sintaxe-java.png" width="400" alt="Certificate: Java Language Syntax Fundamentals" /></a>
+      <br/><strong>Java Language Syntax Fundamentals</strong>
+      <br/><sub>DIO · 2 hours · November 3, 2026</sub>
     </td>
   </tr>
 </table>
