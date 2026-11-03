@@ -165,7 +165,7 @@ Clique em uma miniatura para abrir a imagem em tamanho maior.
       <br/><sub>DIO</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="./certificados/fundamentos-sintaxe-java.png"><img src="./certificados/fundamentos-sintaxe-java.png" width="400" alt="Certificado: Fundamentos da Sintaxe da Linguagem Java" /></a>
+      <a href="./certificados/fundamentossintaxejava.pdf.png"><img src="./certificados/fundamentossintaxejava.pdf.png" width="400" alt="Certificado: Fundamentos da Sintaxe da Linguagem Java" /></a>
       <br/><strong>Fundamentos da Sintaxe da Linguagem Java</strong>
       <br/><sub>DIO · 2 horas · 03/11/2026</sub>
     </td>
@@ -305,7 +305,7 @@ I am building my career in technology with a focus on applied AI and automation,
       <br/><sub>DIO</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="./certificados/fundamentos-sintaxe-java.png"><img src="./certificados/fundamentos-sintaxe-java.png" width="400" alt="Certificate: Java Language Syntax Fundamentals" /></a>
+      <a href="./certificados/fundamentossintaxejava.pdf.png"><img src="./certificados/fundamentossintaxejava.pdf.png" width="400" alt="Certificate: Java Language Syntax Fundamentals" /></a>
       <br/><strong>Java Language Syntax Fundamentals</strong>
       <br/><sub>DIO · 2 hours · November 3, 2026</sub>
     </td>
